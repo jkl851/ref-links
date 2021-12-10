@@ -71,3 +71,7 @@ https://poiemaweb.com/nodejs-socketio
 - Ajax, Axios, Fetch 간단 비교
 
 https://lily-im.tistory.com/15
+
+
+9. keep ref 
+https://github.com/anselm94/googlekeepclone/blob/master/web/src/components/mainarea/NotesArea.jsx
